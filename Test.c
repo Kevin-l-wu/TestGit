@@ -6,7 +6,7 @@ int main()
 	int a = 5, b = 10;
 	int result = 0;
 
-	printf("Hello world\n");
+	pritf("Hello world\n");
 
 	result = Add(a, b);
 
