@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 
+//Add some message on master
+
 int main()
 {
 	int a = 5, b = 10;
