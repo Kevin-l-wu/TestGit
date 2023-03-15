@@ -4,6 +4,8 @@
 //Add some message on master
 //Test
 //Test2
+//Fix Bug 1
+
 
 int main()
 {
